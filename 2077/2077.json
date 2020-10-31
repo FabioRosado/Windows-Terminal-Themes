@@ -1,0 +1,22 @@
+{
+    "name": "2077",
+    "background": "#030d22",
+    "foreground": "#fdfeff",
+            "black": "#3a1b75",
+            "red": "#ee1682",
+            "green": "#0be803",
+            "yellow": "#ffd400",
+            "blue": "#3787d6",
+        "purple": "#EA00D9",
+            "cyan": "#0ab2fa",
+            "white": "#cbcbf0",
+            "brightBlack": "#5c6d75",
+            "brightRed": "#ff2e97",
+            "brightGreen": "#3dd69c",
+            "brightYellow": "#ffd400",
+            "brightBlue": "#5994CE",
+            "brightPurple": "#EA00D9",
+            "brightCyan": "#4bc5fa",
+            "brightWhite": "#ffffff"
+    
+}
